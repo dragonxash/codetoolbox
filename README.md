@@ -1,5 +1,5 @@
 # 编码工具箱 · 离线单文件版
-
+在线使用https://dragonxash.github.io/codetoolbox/
 把 Android「编码工具箱」APK（`com.doubihuaji.Tool`）的算法库逆向复刻成**零依赖纯 JS**，
 并额外扩充了老式编码与扩展哈希两层，最终交付一个可以直接双击打开、断网可用的
 单文件网页 `index.html`（约 285 KB，无任何外部请求）。
